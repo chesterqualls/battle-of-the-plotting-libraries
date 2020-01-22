@@ -27,7 +27,7 @@ The notebooks below contain my solutions to the challenges.  See notes for compl
 
 * altair/altair-plot1.ipynb - Done
 * altair/altair-plot2.ipynb - Done
-* altair/altair-plot3.ipynb
+* altair/altair-plot3.ipynb - Done
 * altair/altair-plot4.ipynb
 * altair/altair-plot5.ipynb
 * altair/altair-plot6.ipynb
