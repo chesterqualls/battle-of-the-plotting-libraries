@@ -28,11 +28,15 @@ The notebooks below contain my solutions to the challenges.  See notes for compl
 * altair/altair-plot1.ipynb - Done
 * altair/altair-plot2.ipynb - Done
 * altair/altair-plot3.ipynb - Done
-* altair/altair-plot4.ipynb
-* altair/altair-plot5.ipynb
+* altair/altair-plot4.ipynb - WIP, Altair US Unemployment Example
+* altair/altair-plot5.ipynb - Done-ish
 * altair/altair-plot6.ipynb
 * altair/altair-plot7.ipynb
 * altair/altair-plot8.ipynb
 
 
-https://altair-viz.github.io/index.html
+## References
+
+* https://altair-viz.github.io/index.html
+* https://altair-viz.github.io/gallery/index.html
+* https://altair-viz.github.io/user_guide/customization.html
